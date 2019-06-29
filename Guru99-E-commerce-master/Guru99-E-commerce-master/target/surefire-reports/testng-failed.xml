@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [E-commerceapplication]">
+  <test name="e-commerceapplication test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.Guru99ecommerce.testcases.TC_Homepage_0001">
+        <methods>
+          <include name="title_verification"/>
+          <include name="title_verification1"/>
+          <include name="Sort_Name"/>
+          <include name="Sort"/>
+          <include name="SetUp"/>
+          <include name="Close"/>
+        </methods>
+      </class> <!-- com.Guru99ecommerce.testcases.TC_Homepage_0001 -->
+    </classes>
+  </test> <!-- e-commerceapplication test(failed) -->
+</suite> <!-- Failed suite [E-commerceapplication] -->

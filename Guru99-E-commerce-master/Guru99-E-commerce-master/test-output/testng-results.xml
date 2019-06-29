@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="7" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="E-commerceapplication" duration-ms="50547" started-at="2019-05-16T15:20:36Z" finished-at="2019-05-16T15:21:26Z">
+    <groups>
+    </groups>
+    <test name="e-commerceapplication test" duration-ms="50547" started-at="2019-05-16T15:20:36Z" finished-at="2019-05-16T15:21:26Z">
+      <class name="com.Guru99ecommerce.testcases.TC_ReadPrice_002">
+        <test-method status="PASS" signature="priceverificaion()[pri:5, instance:com.Guru99ecommerce.testcases.TC_ReadPrice_002@cb0ed20]" name="priceverificaion" duration-ms="12502" started-at="2019-05-16T15:21:14Z" finished-at="2019-05-16T15:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- priceverificaion -->
+      </class> <!-- com.Guru99ecommerce.testcases.TC_ReadPrice_002 -->
+      <class name="com.Guru99ecommerce.testcases.TC_Homepage_0001">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.Guru99ecommerce.testcases.TC_Homepage_0001@5891e32e]" name="SetUp" is-config="true" duration-ms="17357" started-at="2019-05-16T15:20:19Z" finished-at="2019-05-16T15:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="title_verification()[pri:1, instance:com.Guru99ecommerce.testcases.TC_Homepage_0001@5891e32e]" name="title_verification" duration-ms="62" started-at="2019-05-16T15:20:36Z" finished-at="2019-05-16T15:20:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title_verification -->
+        <test-method status="PASS" signature="Sort()[pri:2, instance:com.Guru99ecommerce.testcases.TC_Homepage_0001@5891e32e]" name="Sort" duration-ms="19224" started-at="2019-05-16T15:20:36Z" finished-at="2019-05-16T15:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort -->
+        <test-method status="PASS" signature="title_verification1()[pri:3, instance:com.Guru99ecommerce.testcases.TC_Homepage_0001@5891e32e]" name="title_verification1" duration-ms="5193" started-at="2019-05-16T15:20:55Z" finished-at="2019-05-16T15:21:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title_verification1 -->
+        <test-method status="PASS" signature="Sort_Name()[pri:4, instance:com.Guru99ecommerce.testcases.TC_Homepage_0001@5891e32e]" name="Sort_Name" duration-ms="13510" started-at="2019-05-16T15:21:00Z" finished-at="2019-05-16T15:21:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sort_Name -->
+      </class> <!-- com.Guru99ecommerce.testcases.TC_Homepage_0001 -->
+    </test> <!-- e-commerceapplication test -->
+  </suite> <!-- E-commerceapplication -->
+</testng-results>

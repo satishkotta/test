@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.Guru99ecommerce.testcases.TC_Addtocart_errormessageverification_003">
+        <methods>
+          <include name="addcarterrorverification"/>
+          <include name="SetUp"/>
+          <include name="Close"/>
+        </methods>
+      </class> <!-- com.Guru99ecommerce.testcases.TC_Addtocart_errormessageverification_003 -->
+      <class name="com.Guru99ecommerce.testcases.TC_ReadPrice_002">
+        <methods>
+          <include name="priceverificaion"/>
+          <include name="SetUp"/>
+          <include name="Close"/>
+        </methods>
+      </class> <!-- com.Guru99ecommerce.testcases.TC_ReadPrice_002 -->
+      <class name="com.Guru99ecommerce.testcases.TC_Homepage_0001">
+        <methods>
+          <include name="title_verification"/>
+          <include name="title_verification1"/>
+          <include name="Sort_Name"/>
+          <include name="Sort"/>
+          <include name="SetUp"/>
+          <include name="Close"/>
+        </methods>
+      </class> <!-- com.Guru99ecommerce.testcases.TC_Homepage_0001 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
