@@ -39,11 +39,6 @@ public class BaseClass {
 		System.setProperty("webdriver.chrome.driver", "F:\\chromedrive\\chromedriver.exe");
 		 driver=new ChromeDriver();
 		driver.get(url); 
-		/*logger=LogManager.getLogger("Guru99ecommerce");*/
-		/*System.setProperty("log4j.configurationFile","./log4j2.properties");*/
-		//PropertyConfiguratorManager.configure("log4j.properties");
-		driver.manage().window().maximize();
-		/*logger.info("Browser is Maximize");*/
 		
 	}
 	
